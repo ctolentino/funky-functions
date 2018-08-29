@@ -82,4 +82,4 @@ window.onload = function() {
     * A ```property``` called numClasp that will store the number 300.
   * An ```if statement``` that will check if myShuffle's isPopular property is true. If so, **return** the value of myShuffle's numClaps property.
 
-6. Outside of the ```funkyFunctions``` object, **console.log the sum of the values returned from all of the methods from the funkyFunctions object.** Call each method and add them together. If this prints 352, you got the funk! 
+6. Outside of the ```funkyFunctions``` object, **console.log the sum of the values returned from all of the methods from the funkyFunctions object.** Call each method and add them together to see PART I of the combination. 
